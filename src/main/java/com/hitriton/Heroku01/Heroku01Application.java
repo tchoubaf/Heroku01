@@ -9,9 +9,7 @@ public class Heroku01Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Heroku01Application.class, args);
 		
-		System.out.println("my first haroku deployment app");
 		
-		System.out.println("Fabrice");
 	}
 
 }
